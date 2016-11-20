@@ -13,6 +13,7 @@ namespace Mono2DLearning
         SpriteBatch spriteBatch;
         private Texture2D star;
         private Texture2D earth;
+
         private Texture2D shuttle;
         private SpriteFont fonts;
         private int score = 0;
